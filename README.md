@@ -20,4 +20,17 @@
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
 <a href = "https://github.com/sujeong-jang-creator/Coffee_order_system"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
 
+<!--세번째 프로젝트-->
+&nbsp;&nbsp;&nbsp;<h3><details><summary>:three: [210624] 너도 할수있다! LOL 전력분석! </summary></p>
+<h3> &nbsp;:heavy_check_mark: My role</p>
+<h6> &nbsp; 1. diagrams 제작</p>
+     &nbsp; 2. Github 및 협업환경 설정 및 관리</p>
+     &nbsp; 3. CSS / html 제작 및 디자인</p>
+     &nbsp;&nbsp;&nbsp;: 필요한 image illustration 제작</p>
+     &nbsp; 4. Flask 코드와 html 연결 및 정리작업 </p>
+     &nbsp; 5. 코드제작 서포트</p>
+     &nbsp;&nbsp;&nbsp; - table data 입력</p>
+     &nbsp;&nbsp;&nbsp; - app.py 제작</p>
+<h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
+<a href = "https://github.com/sujeong-jang-creator/JSJB_MiniProject"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
 
