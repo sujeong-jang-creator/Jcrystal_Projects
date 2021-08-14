@@ -34,3 +34,18 @@
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
 <a href = "https://github.com/sujeong-jang-creator/JSJB_MiniProject"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
 
+
+<!--네번째 프로젝트-->
+&nbsp;&nbsp;&nbsp;<h3><details><summary>:four: [210716] Orange </summary></p>
+<h3> &nbsp;:heavy_check_mark: My role</p>
+<h6> &nbsp; 1. 데이터수집</p>
+     &nbsp; 2. 화면개발</p>
+     &nbsp; 3. 웹크롤링</p>
+<h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
+<a href = "https://github.com/Yejin-Ha/Team_Alphaca/tree/master/0716_miniProject"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
+
+<!--다섯번째 프로젝트-->
+&nbsp;&nbsp;&nbsp;<h3><details><summary>:five: [final] I guess so </summary></p>
+<h3> &nbsp;:heavy_check_mark: My role</p>
+<h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
+<a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
