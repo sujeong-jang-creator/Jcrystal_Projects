@@ -48,4 +48,4 @@
 &nbsp;&nbsp;&nbsp;<h3><details><summary>:five: [final] I guess so </summary></p>
 <h3> &nbsp;:heavy_check_mark: My role</p>
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
-<a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
+<a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details> 
