@@ -47,6 +47,10 @@
 <!--다섯번째 프로젝트-->
 &nbsp;&nbsp;&nbsp;<h3><details><summary>:five: [final] I guess so </summary></p>
 <h3> &nbsp;:heavy_check_mark: My role</p>
+1) 사전서류제작
+  - 요구사항 정의서 작성 (회원가입, 등급판별, 상세등급판별페이지) 및 통합
+  - 화면 설계서 작성 (회원가입, 등급판별, 상세등급판별페이지) 및 통합
+  - 프로그램 설계서 및 flow chart 작성 (등급판별, 상세등급 판별)
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
 <a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details> 
 
