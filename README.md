@@ -32,7 +32,7 @@
      &nbsp;&nbsp;&nbsp; - table data 입력</p>
      &nbsp;&nbsp;&nbsp; - app.py 제작</p>
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
-<a href = "https://github.com/sujeong-jang-creator/JSJB_MiniProject"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
+<a href = "https://github.com/sujeong-jang-creator/JSJB_MiniProject"><h6>&nbsp;&nbsp;:너도 할수있다! LOL 전력분석! LINK</a></details>
 
 
 <!--네번째 프로젝트-->
@@ -42,7 +42,7 @@
      &nbsp; 2. 화면개발</p>
      &nbsp; 3. 웹크롤링</p>
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
-<a href = "https://github.com/Yejin-Ha/Team_Alphaca/tree/master/0716_miniProject"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details>
+<a href = "https://github.com/Yejin-Ha/Team_Alphaca/tree/master/0716_miniProject"><h6>&nbsp;&nbsp;: Orange LINK</a></details>
 
 <!--다섯번째 프로젝트-->
 &nbsp;&nbsp;&nbsp;<h3><details><summary>:five: [final] I guess so </summary></p>
@@ -55,6 +55,6 @@
 &nbsp;  - 프로그램 설계서 및 flow chart 작성 (등급판별, 상세등급 판별)</p>
   
 <h3> &nbsp;:heavy_check_mark: GitHub LINK</p>
-<a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: Coffee Order System [MAIN] LINK</a></details> 
+<a href = "https://github.com/Yejin-Ha/I_Guess_So"><h6>&nbsp;&nbsp;: I guess so [MAIN] LINK</a></details> 
 
   
